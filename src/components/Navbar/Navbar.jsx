@@ -16,6 +16,7 @@ const Navbar = ()=>{
             </div>
             <li className="text-2xl hover:text-red-600">Contact Us</li>
             <button className="bg-blue-950 px-5 text-white text-lg py-1">
+              Sign in
             </button>
           </ul>
         </div>
